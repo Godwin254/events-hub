@@ -18,4 +18,10 @@ Events Hub_Ke is action driven and scalable application having been built with t
      MongoDB
 
 
+## Images
+/home/brown/Documents/codes/projects/events_hub/images/mainhub1.png
+/home/brown/Documents/codes/projects/events_hub/images/mainhub2.png
+/home/brown/Documents/codes/projects/events_hub/images/mainhub3.png
+/home/brown/Documents/codes/projects/events_hub/images/events_page.png
+/home/brown/Documents/codes/projects/events_hub/images/events_page1.png
 
