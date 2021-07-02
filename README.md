@@ -19,9 +19,12 @@ Events Hub_Ke is action driven and scalable application having been built with t
 
 
 ## Images
-/home/brown/Documents/codes/projects/events_hub/images/mainhub1.png
-/home/brown/Documents/codes/projects/events_hub/images/mainhub2.png
-/home/brown/Documents/codes/projects/events_hub/images/mainhub3.png
-/home/brown/Documents/codes/projects/events_hub/images/events_page.png
-/home/brown/Documents/codes/projects/events_hub/images/events_page1.png
+![events_page](https://user-images.githubusercontent.com/45181428/124257934-8d947b00-db35-11eb-8d1d-b565447f0686.png)
+![events_page1](https://user-images.githubusercontent.com/45181428/124257939-8ff6d500-db35-11eb-9088-28ed1aed6cfd.png)
+![mainhub1](https://user-images.githubusercontent.com/45181428/124257945-908f6b80-db35-11eb-86a1-66b47cec60ea.png)
+![mainhub2](https://user-images.githubusercontent.com/45181428/124257966-95541f80-db35-11eb-865b-35699c7f956b.png)
+![mainhub3](https://user-images.githubusercontent.com/45181428/124257984-98e7a680-db35-11eb-9608-83855aaeb356.png)
+![mainhub4png](https://user-images.githubusercontent.com/45181428/124257988-99803d00-db35-11eb-9149-053be2ab366d.png)
+
+
 
