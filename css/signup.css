@@ -233,7 +233,7 @@
 
 .socials .icon{
     position: relative;
-    border: 1px solid;
+    border: 1px solid rgba(0, 0, 0, 0.24);
     width: 35px;
     height: 35px;
     border-radius: 50px;
@@ -243,4 +243,11 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+}
+
+.socials .icon:hover{
+    border: none;
+    transition: 0.4s ease-in-out;
+    color: rgb(8, 4, 31);
+    background: rgba(255, 255, 0, 0.884);
 }

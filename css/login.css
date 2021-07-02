@@ -144,7 +144,7 @@
     font-weight: bold;
     margin-right: 30px;
     background: none;
-    border: 1px solid rgb(4, 4, 44);
+    border: 1px solid rgba(4, 4, 44, 0.384);
     border-radius: 60px;
     cursor: pointer;
 }
@@ -246,7 +246,7 @@
 
 .socials .icon{
     position: relative;
-    border: 1px solid;
+    border: 1px solid rgba(0, 0, 0, 0.24);
     width: 35px;
     height: 35px;
     border-radius: 50px;
@@ -256,4 +256,11 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+}
+
+.socials .icon:hover{
+    border: none;
+    transition: 0.4s ease-in-out;
+    color: rgb(8, 4, 31);
+    background: rgba(255, 255, 0, 0.884);
 }
