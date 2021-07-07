@@ -195,6 +195,11 @@
     background: rgba(255, 255, 0, 0.253);
 }
 
+.d-none{
+    display: none;
+}
+
+
 .events .btn-sec{
     position: var(--pos1);
     width: var(--main-width);
@@ -444,6 +449,10 @@ footer > i{
     padding: var(--pad2);
     margin-top: var(--marg2);
 }
+
+/***
+    other styles
+**/
 
 
 /*sm-mobile device*/
