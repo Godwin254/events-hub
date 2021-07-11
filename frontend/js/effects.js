@@ -33,7 +33,8 @@ function home() {
 
   header.animate(
     {
-      fontSize: "4.8em",
+      //fontSize: "3.8em",
+      fontWeight: "bold"
     },
     1000,
     () => {

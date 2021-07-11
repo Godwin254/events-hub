@@ -54,7 +54,6 @@
 /*banner class style*/
 .banner{
     position: var(--pos1);
-   
     width: var(--main-width);
     
 }
@@ -456,17 +455,149 @@ footer > i{
 
 
 /*sm-mobile device*/
-@media  screen and (max-width: 400px) {
+@media  screen and (max-width: 350px) {
 
+    .content h1{
+        font-size: 3.0em;
+    }
+
+    .content h6{
+        font-size: 1em;
+    }
+
+    .content input{
+        width: 220px;
+        height: 65px;
+        font-size: 1.2em;
+        margin: 50px 10px 5px 50px
+    }
+
+    /*events pane*/
+    .banner .events{
+        height: 150vh;
+    }
+
+    .events h3{
+        font-size: 1.5em;
+        font-style: normal;
+    }
+
+    .events .content{
+        
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .content .evn1{
+        height: 150px;
+    }
+
+    .evn1 img{
+        height: 100%;
+        border-radius: 10px;
+    }
+
+    .btn-sec input{
+        width: 150px;
+        height: 45px;
+        font-size: 1.1em;
+    }
+
+    /*about page*/
+    .banner .about{
+        display: flex;
+        flex-direction: column;
+        min-height: 200vh;
+    }
+
+    .about .part1{
+        height: 30vh;
+    }
+    
+    .part1 img{
+        width: 50%;
+    }
+
+    .about .part2{
+        height: 170vh;
+        
+    }
+
+    .part2 h4{
+        font-size: 1.5em;
+    }
+
+    .part2 h4::before, .part2 h4::after{
+        display: none;
+    }
+
+    .part2 .par > p{
+        font-size: 15px;
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .part2 .units{
+        flex-direction: column-reverse;
+        justify-content: space-evenly;
+        height: 100vh;
+    }
+
+    .units .unit{
+        margin-top: 10px;
+    }
+
+    .units .unit:nth-child(2){
+       height: 30vh;
+       order: 3;
+    }
+
+    .unit img{
+        width: 50px;
+        height: 50px;
+    }  
+    
+    /*footer*/
+    .footer .content{
+        height: 90vh;
+    
+    }
+    
+    .cat1 p{
+       font-size: 14px;
+    
+    }
+
+    .cat1 p:last-child{
+        width: 60%;
+        height: 25px;
+    }
+
+    .footer .socials{
+        height: 25vh;
+        width: 100%;
+    }
+
+    .socials .icon{
+        width: 50px;
+        height: 50px;   
+    }
 }
 
 /*bg-mobile device*/
-@media  screen and (max-width: 400px) {
+@media  screen and (max-width: 450px) {
     
 }
 
 /*tablet device*/
-@media  screen and (max-width: 400px) {
+@media  screen and (max-width: 650px) {
+    
+}
+
+/*tablet d*/
+@media  screen and (max-width: 650px) {
     
 }
 
